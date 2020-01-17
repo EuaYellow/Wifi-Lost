@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B0:4E:26:AC:F1:98, 2020-01-15 16:04:06, 2020-01-15 16:04:06,  9,  -1, WPA, ,   , -60,        0,        1,   0.  0.  0.  0,   0, , 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

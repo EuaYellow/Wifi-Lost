@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+58:10:8C:41:31:64, 2020-01-14 22:21:32, 2020-01-14 22:21:42, 11, 270, OPN, ,   , -73,       87,       18,  10.  0.  0.200,  27, PREFEITURA PLANALTINO LIVRE, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+40:78:6A:72:6E:53, 2020-01-14 22:21:35, 2020-01-14 22:21:42, -88,       19, 58:10:8C:41:31:64,
+

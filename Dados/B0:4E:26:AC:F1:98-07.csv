@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B0:4E:26:AC:F1:98, 2020-01-15 16:14:20, 2020-01-15 16:14:21,  9, 405, WPA2, CCMP, PSK, -55,       16,        1,   0.  0.  0.  0,   7, Leu Net, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+48:49:C7:B7:6C:96, 2020-01-15 16:14:20, 2020-01-15 16:14:20, -38,        1, B0:4E:26:AC:F1:98,
+38:9A:F6:C9:44:A3, 2020-01-15 16:14:21, 2020-01-15 16:14:21, -34,        3, B0:4E:26:AC:F1:98,
+
